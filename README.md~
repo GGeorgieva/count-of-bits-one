@@ -1,1 +1,1 @@
-//the code is in the "new file"
+This is the new content of README.
